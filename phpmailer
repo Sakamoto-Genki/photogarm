@@ -1,0 +1,10 @@
+/* PHPMailer(メール送信) */
+// 以下、phpMailerで使用するクラスをインポート
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\Exception;
+use PHPMailer\PHPMailer\SMTP;
+// 以下、phpMailerを設置したパスを指定
+require('PHPMailer/src/PHPMailer.php');
+require('PHPMailer/src/Exception.php');
+require('PHPMailer/src/SMTP.php');
+/* PHPMailer(メール送信) */
