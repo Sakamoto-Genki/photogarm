@@ -1,0 +1,36 @@
+「アプリのドメイン」に追加するURL
+http://localhost/photogram/
+http://localhost/photogram/privacy-policy.php
+http://localhost/photogram/term-of-use.php
+
+
+・・・・・・・・・・・・・・・・・・・・・・・
+
+
+「create-account.css」に追加するCSS
+
+.google-signup-message {
+    font-family: serif;
+    font-size: 13px;
+    font-weight: bold;
+    color: coral;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+
+・・・・・・・・・・・・・・・・・・・・・・・
+
+
+「login.css」に追加するCSS
+
+.google-signin-message {
+    font-family: serif;
+    font-size: 13px;
+    font-weight: bold;
+    color: coral;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+
